@@ -1,7 +1,7 @@
 // src/ARScene.js
 import React from "react";
 import "aframe";
-import "aframe-ar";
+import "react-aframe-ar";
 
 const ARScene = () => {
   return (
